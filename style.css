@@ -1,0 +1,35 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html.body { height: 100%;}
+
+header{padding: 10px;
+margin: 5px;
+width: 100%;
+background-color:rgb(171, 232, 232);
+}
+div{padding: 30px;
+margin-left: 5px;
+width: 100%;
+background-color: beige;}
+h3{color: blueviolet;}
+
+section{padding: 30px;
+margin-left: 5px;
+width: 80%;
+background-color: white;}
+h4{margin-left: 50px;
+color:darkblue}
+col{width: 310px;
+margin-left: 5px;}
+p{color: brown;}
+table {border: 1px solid black; border-collapse: collapse;}
+
+
+
+
+footer{padding: 10px;
+background-color: darkgrey;}
+
+
